@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp1_tarea_03_typevar", "WinFormsApp1_tarea_03_typevar\WinFormsApp1_tarea_03_typevar.csproj", "{40CB770B-F76A-4882-A12D-1D6F9B894C5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40CB770B-F76A-4882-A12D-1D6F9B894C5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40CB770B-F76A-4882-A12D-1D6F9B894C5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40CB770B-F76A-4882-A12D-1D6F9B894C5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40CB770B-F76A-4882-A12D-1D6F9B894C5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F90BF019-6938-47FF-BE21-8616A8CD5500}
+	EndGlobalSection
+EndGlobal
